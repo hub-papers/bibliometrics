@@ -1,3 +1,5 @@
+> **ARCHIVIO STORICO UniCA:** elenco riferito all'anno **2023**, calibrazione del **24/06/2024**. Non è una classifica aggiornata al 2026. Per distinguere fascia A, top 10% e Q1, consulta la [guida unica](RIVISTE_TOP10_TOP25.md).
+
 # Riviste in fascia A --- INF/01 (UniCA)
 
 **Fonte:** Dipartimento di Matematica e Informatica, Università di

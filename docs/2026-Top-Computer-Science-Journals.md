@@ -1,3 +1,5 @@
+> **WATCHLIST, NON CLASSIFICA CERTIFICATA 2026.** Le indicazioni Q1 qui riportate non sono state ricontrollate una per una nel JCR 2025. Consulta la [guida unica](RIVISTE_TOP10_TOP25.md) prima di utilizzare questi dati per valutazioni.
+
 # Top Computer Science Journals — INF-01 / INFO-01-A
 ## Watchlist Q1 per carriera accademica italiana
 ### Aggiornamento 2025–2026

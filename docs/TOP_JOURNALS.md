@@ -1,3 +1,5 @@
+> **ARCHIVIO — NON USARE COME RANKING CORRENTE.** La graduatoria mescola metriche e non documenta in modo sufficiente annualità e metodo di ordinamento. Consulta la [guida unica](RIVISTE_TOP10_TOP25.md).
+
 ### 🏆 Top 30 INF/01 Journals (Global Ranking)
 
 | Pos | Journal | Publisher | h-index | SJR | Impact Factor | Quartile |

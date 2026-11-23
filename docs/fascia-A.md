@@ -1,4 +1,4 @@
-> **ARCHIVIO STORICO UniCA:** elenco riferito all'anno **2023**, calibrazione del **24/06/2024**. Non è una classifica aggiornata al 2026. Per distinguere fascia A, top 10% e Q1, consulta la [guida unica](RIVISTE_TOP10_TOP25.md).
+> **ARCHIVIO STORICO UniCA:** elenco riferito all'anno **2023**, calibrazione del **24/06/2024**. Non è una classifica aggiornata al 2026. Il PDF ufficiale originale non è archiviato nel repository: questa è una trascrizione storica da verificare sulla fonte istituzionale. Il [CSV storico](../data/journals.csv) è **parziale** rispetto a questo elenco; una rivista assente dal CSV non è necessariamente esclusa. Consulta la [guida unica](RIVISTE_TOP10_TOP25.md).
 
 # Riviste in fascia A --- INF/01 (UniCA)
 
